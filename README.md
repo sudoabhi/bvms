@@ -1,2 +1,2 @@
 # bvms
-blockchain voting machine
+blockchain voting machines
